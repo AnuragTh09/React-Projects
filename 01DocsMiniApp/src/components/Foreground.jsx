@@ -13,8 +13,8 @@ const Foreground = () => {
         { 
             desc: "This is the background color of the card.",
              filesize: ".9mb", close: true,
-              tag: { isOpen: false, tagTitle: "Download Now",
-               tagColor: "green" }
+              tag: { isOpen: true, tagTitle: "Download Now",
+               tagColor: "blue" }
         },
         { 
             desc: "This is the background color of the card.",
